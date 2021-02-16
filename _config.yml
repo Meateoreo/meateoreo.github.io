@@ -2,11 +2,11 @@ title: <a href="https://www.github.com/Meateoreo">Andrew Wang</a> # your name (o
 logo: "/images/linkedinPhoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Game Programmer and Designer</b>, Unity Developer that created Robopg and Stuffed. Seeking entry level programming or testing jobs.
-  <br>
+  <br><br>
   <i>Email: aw6461@gmail.com</i>
   <br><br>
   <a href="https://www.meateor.itch.io">View My Games</a>
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/andrewwanggp/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
