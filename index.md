@@ -8,7 +8,7 @@
 
 [3DSpellMechanicShowcase](https://meateor.itch.io/spellgame) - <a href="https://github.com/Meateoreo/AndrewWangCodes/">Code for this game</a>
 <br>
-<img src="images/Spell.PNG?raw=true" width="500" height="600">
+<img src="images/Spell.PNG?raw=true" height="500">
 
 ---
 [RoboPG](https://meateor.itch.io/robopg) - <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
