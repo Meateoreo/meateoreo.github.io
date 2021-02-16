@@ -8,21 +8,21 @@
 
 [3DSpellMechanicShowcase](https://meateor.itch.io/spellgame)
 <br><br>
-<img src="images/Spell.PNG?raw=true" width=90% height=90%>
+<img src="images/Spell.PNG?raw=true" width=80% height=80%>
 <br><br>
  <a href="https://github.com/Meateoreo/AndrewWangCodes/">Code for this game</a>
 
 ---
 [RoboPG](https://meateor.itch.io/robopg)
 <br><br>
-<img src="images/Rust.png?raw=true"  width=90% height=90%>
+<img src="images/Rust.png?raw=true"  width=80% height=80%>
 <br><br>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
 [Stuffed](https://meateor.itch.io/stuffed)
 <br><br>
-<img src="images/LosePic.JPG?raw=true"  width=90% height=90%>
+<img src="images/LosePic.JPG?raw=true"  width=80% height=80%>
 <br><br>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
