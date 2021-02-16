@@ -1,6 +1,6 @@
 ## Portfolio
 
-[My Resume](/Andrew_Wang_Resume)
+[My Resume](/Andrew_Wang_Resume.pdf)
 ---
 
 ### Recent Game Projects
