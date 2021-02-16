@@ -1,6 +1,6 @@
 ## Portfolio
 
-[My Resume](https://meateor.itch.io/spellgame)
+[My Resume](/Andrew_Wang_Resume)
 ---
 
 ### Recent Game Projects
