@@ -8,28 +8,28 @@
 
 [3DSpellMechanicShowcase](https://meateor.itch.io/spellgame)
 <br><br>
-<img src="images/Spell.PNG?raw=true" height="500">
+<img src="images/Spell.PNG?raw=true" height=90%>
 <br><br>
  <a href="https://github.com/Meateoreo/AndrewWangCodes/">Code for this game</a>
 
 ---
 [RoboPG](https://meateor.itch.io/robopg)
 <br><br>
-<img src="images/Rust.png?raw=true" height="500">
+<img src="images/Rust.png?raw=true" height=500%>
 <br><br>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
 [Stuffed](https://meateor.itch.io/stuffed)
 <br><br>
-<img src="images/LosePic.JPG?raw=true" height="500">
+<img src="images/LosePic.JPG?raw=true" height=100%>
 <br><br>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
 [SewFluffy](https://meateor.itch.io/sewfluffy)
 <br><br>
-<img src="images/Wolf_Base.png?raw=true" height="500">
+<img src="images/Wolf_Base.png?raw=true" height=50%>
 <br><br>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
