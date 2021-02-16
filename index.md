@@ -15,7 +15,7 @@
 ---
 [RoboPG](https://meateor.itch.io/robopg)
 <br><br>
-<img src="images/Rust.png?raw=true"  width=200% height=200%>
+<img src="images/Rust.png?raw=true"  width=120% height=120%>
 <br><br>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
