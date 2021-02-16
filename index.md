@@ -8,7 +8,7 @@
 
 [3DSpellMechanicShowcase](https://meateor.itch.io/spellgame)
 <br><br>
-<img src="images/Spell.PNG?raw=true" width=80% height=80%>
+<img src="images/Spell.PNG?raw=true">
 <br><br>
  <a href="https://github.com/Meateoreo/AndrewWangCodes/">Code for this game</a>
 
