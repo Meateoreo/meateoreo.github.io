@@ -6,32 +6,24 @@
 ### Recent Game Projects
 
 
-[3DSpellMechanicShowcase](https://meateor.itch.io/spellgame)
+[3DSpellMechanicShowcase](https://meateor.itch.io/spellgame) - <a href="https://github.com/Meateoreo/AndrewWangCodes/">Code for this game</a>
 <br>
 <img src="images/Spell.PNG?raw=true"/>
-<br>
-<a href="https://github.com/Meateoreo/AndrewWangCodes/">Code for this game</a>
 
 ---
-[RoboPG](https://meateor.itch.io/robopg)
+[RoboPG](https://meateor.itch.io/robopg) - <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 <br>
 <img src="images/Rust.png?raw=true"/>
-<br>
-<a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
-[Stuffed](https://meateor.itch.io/stuffed)
+[Stuffed](https://meateor.itch.io/stuffed) - <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 <br>
 <img src="images/LosePic.JPG?raw=true"/>
-<br>
-<a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
-[SewFluffy](https://meateor.itch.io/sewfluffy)
+[SewFluffy](https://meateor.itch.io/sewfluffy) - <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 <br>
 <img src="images/Wolf_Base.png?raw=true"/>
-<br>
-<a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
 
