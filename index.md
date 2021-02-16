@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Game Projects
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://meateor.itch.io/robopg><img src="images/dummy_thumbnail.jpg?raw=true"/></a>
+<a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
