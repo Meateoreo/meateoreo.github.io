@@ -2,29 +2,31 @@
 
 ---
 
-### Game Projects
+### Recent Game Projects
 
+
+[3DSpellMechanicShowcase](https://meateor.itch.io/spellgame)
+<br>
+<img src="images/Spell.png?raw=true"/>
+<a href="https://github.com/Meateoreo/AndrewWangCodes/">Code for this game</a>
+
+---
 [RoboPG](https://meateor.itch.io/robopg)
-<img src="images/rust.png?raw=true"/>
+<br>
+<img src="images/Rust.png?raw=true"/>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stuffed](https://meateor.itch.io/stuffed)
+<br>
+<img src="images/LosePic.jpg?raw=true"/>
+<a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[SewFluffy](https://meateor.itch.io/sewfluffy)
+<br>
+<img src="images/Wolf_Base.png?raw=true"/>
+<a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
 
