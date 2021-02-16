@@ -15,21 +15,21 @@
 ---
 [RoboPG](https://meateor.itch.io/robopg)
 <br><br>
-<img src="images/Rust.png?raw=true"  width=50% height=50%>
+<img src="images/Rust.png?raw=true">
 <br><br>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
 [Stuffed](https://meateor.itch.io/stuffed)
 <br><br>
-<img src="images/LosePic.JPG?raw=true"  width=80% height=80%>
+<img src="images/LosePic.JPG?raw=true">
 <br><br>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
 [SewFluffy](https://meateor.itch.io/sewfluffy)
 <br><br>
-<img src="images/Wolf_Base.png?raw=true" width=50% height=50%>
+<img src="images/Wolf_Base.png?raw=true">
 <br><br>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
