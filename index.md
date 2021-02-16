@@ -4,8 +4,8 @@
 
 ### Game Projects
 
-[Project 1 Title](/sample_page)
-<a href="https://meateor.itch.io/robopg><img src="images/dummy_thumbnail.jpg?raw=true"/></a>
+[RoboPG](https://meateor.itch.io/robopg)
+<img src="images/rust.png?raw=true"/>
 <a href="https://github.com/Meateoreo/AndrewWangCodes/tree/master/RoboPG">Code for this game</a>
 
 ---
