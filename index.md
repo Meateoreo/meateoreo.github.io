@@ -1,10 +1,10 @@
 ## Portfolio
 
-[My Resume](/Andrew_Wang_Resume.pdf)
+[My Resume](/Andrew%20Wang%20Resume.pdf)
 ---
 
 ### Recent Game Projects
-
+---
 
 [3DSpellMechanicShowcase](https://meateor.itch.io/spellgame) - <a href="https://github.com/Meateoreo/AndrewWangCodes/">Code for this game</a>
 <br><br>
