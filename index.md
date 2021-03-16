@@ -12,7 +12,6 @@
 <br>
 Quick mockup mechanics with some UI display made for testing to put in a future game.
 <br><br>
- <a href="https://github.com/Meateoreo/AndrewWangCodes/">Code for this game</a>
 
 ---
 [RoboPG](https://meateor.itch.io/robopg)
