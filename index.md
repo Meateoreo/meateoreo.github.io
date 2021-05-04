@@ -6,6 +6,14 @@
 ### Recent Game Projects
 ---
 
+[Ye Old Castle Tower of Dwarven Treasure](https://meateor.itch.io/yeoldcastletowerofdwarventreasure)
+<br><br>
+<a href="https://meateor.itch.io/yeoldcastletowerofdwarventreasure"><img src="images/money.PNG?raw=true"></a>
+<br>
+Automated Turn-based dungeon exploration all about GOLD!
+<br><br>
+
+---
 [3DSpellMechanicShowcase](https://meateor.itch.io/spellgame)
 <br><br>
 <a href="https://meateor.itch.io/spellgame/"><img src="images/Spell.PNG?raw=true"></a>
